@@ -12,7 +12,7 @@ const Hero = () => {
   };
 
   return (
-    <div className="bg-[url('https://source.unsplash.com/random/1600x900?medicine')] bg-cover bg-gray-500 bg-center h-screen flex items-center justify-center text-white">
+    <div className="bg-[url('https://images.unsplash.com/photo-1506840282530-b9c64366a95a')] bg-cover bg-gray-500 bg-center h-screen flex items-center justify-center text-white">
       <div className="text-center space-y-8 p-4">
         <h1 className="text-5xl md:text-6xl font-bold">Find Reviews the best suits your product</h1>
         <p className="text-xl md:text-2xl max-w-2xl mx-auto">

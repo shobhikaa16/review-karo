@@ -22,6 +22,7 @@ function App() {
           <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<Signup />} />
           <Route path="/write-review" element={<WriteReview />} />
+          <Route path="/category/:categoryName" element={<CategoryPage />} /> {/* Route for CategoryPage */}
         </Routes>
         <Footer />
       </div>
