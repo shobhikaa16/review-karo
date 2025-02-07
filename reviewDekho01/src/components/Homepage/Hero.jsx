@@ -14,9 +14,9 @@ const Hero = () => {
   return (
     <div className="bg-[url('https://source.unsplash.com/random/1600x900?medicine')] bg-cover bg-gray-500 bg-center h-screen flex items-center justify-center text-white">
       <div className="text-center space-y-8 p-4">
-        <h1 className="text-5xl md:text-6xl font-bold">Find Reviews for Medicines</h1>
+        <h1 className="text-5xl md:text-6xl font-bold">Find Reviews the best suits your product</h1>
         <p className="text-xl md:text-2xl max-w-2xl mx-auto">
-          Search and explore reviews for the medicinal products you need
+          Search and explore reviews for the products you need
         </p>
         <form onSubmit={handleSearch} className="max-w-3xl mx-auto">
           <div className="flex items-center bg-white rounded-full overflow-hidden shadow-lg">

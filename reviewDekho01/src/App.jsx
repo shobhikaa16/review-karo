@@ -7,6 +7,7 @@ import ReviewDetails from "./pages/ReviewDetails"
 import Login from "./pages/Login"
 import Signup from "./pages/Signup"
 import Footer from "./components/Footer/Footer"
+import WriteReview from "./pages/WriteReview"
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <Route path="/review/:reviewId" element={<ReviewDetails />} />
           <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<Signup />} />
+          <Route path="/write-review" element={<WriteReview />} />
         </Routes>
         <Footer />
       </div>
