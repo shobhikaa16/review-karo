@@ -1,34 +1,38 @@
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom"
-import Navbar from "./components/Header/Navbar"
-import Home from "./pages/Home"
-import CategoryPage from "./pages/CategoryPage"
-import SearchResults from "./pages/SearchResults"
-import ReviewDetails from "./pages/ReviewDetails"
-import Login from "./pages/Login"
-import Signup from "./pages/Signup"
-import Footer from "./components/Footer/Footer"
-import WriteReview from "./pages/WriteReview"
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Navbar from "./Components/Header/Navbar";
+import Home from "./Pages/Home";
+import Medicines from "./Pages/Medicines";
+import MedInfoOne from "./Pages/MedInfoOne"; // already imported ✅
 
 function App() {
   return (
     <Router>
-      <div className="min-h-screen flex flex-col">
+      <div className="flex flex-col min-h-screen">
+        {/* Fixed Navbar */}
         <Navbar />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/category/:categoryName" element={<CategoryPage />} />
-          <Route path="/search" element={<SearchResults />} />
-          <Route path="/review/:reviewId" element={<ReviewDetails />} />
-          <Route path="/login" element={<Login />} />
-          <Route path="/signup" element={<Signup />} />
-          <Route path="/write-review" element={<WriteReview />} />
-          <Route path="/category/:categoryName" element={<CategoryPage />} /> {/* Route for CategoryPage */}
-        </Routes>
-        <Footer />
+
+        {/* Spacer to offset fixed navbar height */}
+        <div className="h-[100px]" />
+
+        {/* Main scrollable content */}
+        <div className="flex-1 overflow-y-auto">
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/category/medicines" element={<Medicines />} />
+            {/* ONE dynamic route for all medicine types: */}
+            <Route
+              path="/category/medicines/:categoryName"
+              element={<MedInfoOne />}
+            />
+            <Route
+              path="/category/medicines/:categoryName/:tabletName"
+              element={<MedInfoOne />}
+            />
+          </Routes>
+        </div>
       </div>
     </Router>
-  )
+  );
 }
 
-export default App
-
+export default App;

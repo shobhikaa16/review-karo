@@ -1,0 +1,15 @@
+{"level":"info","message":"🚀 Server running on http://localhost:3000","timestamp":"2025-05-01T07:15:58.090Z"}
+{"level":"info","message":"Scraping reviews for Glutofine","timestamp":"2025-05-01T07:16:50.056Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-05-01T07:16:51.105Z"}
+{"level":"info","message":"Successfully scraped 1mg: 4 reviews","timestamp":"2025-05-01T07:16:51.873Z"}
+{"level":"info","message":"Scraping reviews for HK Vitals Biotin Tablet","timestamp":"2025-05-01T07:16:56.710Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-05-01T07:16:57.286Z"}
+{"level":"info","message":"Successfully scraped 1mg: 10 reviews","timestamp":"2025-05-01T07:16:57.823Z"}
+{"level":"info","message":"Scraping reviews for Tablet 4","timestamp":"2025-05-01T07:17:02.821Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-05-01T07:17:03.375Z"}
+{"level":"info","message":"Successfully scraped 1mg: 0 reviews","timestamp":"2025-05-01T07:17:04.327Z"}
+{"level":"info","message":"Scraping reviews for Shelcal 500 Calcium+Vitamin D3 Tablet","timestamp":"2025-05-01T07:17:05.934Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-05-01T07:17:06.458Z"}
+{"level":"info","message":"Successfully scraped 1mg: 10 reviews","timestamp":"2025-05-01T07:17:06.899Z"}
+{"level":"info","message":"Cache hit for Tablet 4","timestamp":"2025-05-01T07:17:08.944Z"}
+{"level":"info","message":"Cache hit for Shelcal 500 Calcium+Vitamin D3 Tablet","timestamp":"2025-05-01T07:17:10.524Z"}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ReviewDekho - AI Review Summary</title>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>ReviewDekho</h1>
+      <form method="POST" action="/reviews">
+        <input type="text" name="productName" placeholder="Enter product name" required>
+        <button type="submit">Get Reviews</button>
+      </form>
+
+      <% if (typeof error !== 'undefined' && error) { %>
+        <div class="error">
+          <p><%= error %></p>
+        </div>
+      <% } else if (product) { %>
+        <h2>Results for: <%= product %></h2>
+
+        <% if (summary) { %>
+          <div class="summary">
+            <h3>AI Summary:</h3>
+            <p><%= summary %></p>
+          </div>
+        <% } %>
+
+        <% for (let source in reviews) { %>
+          <div class="reviews">
+            <h3>Reviews from <%= source %></h3>
+            <ul>
+              <% reviews[source].forEach(r => { %>
+                <li><strong><%= r.name %>:</strong> <%= r.review %></li>
+              <% }); %>
+            </ul>
+          </div>
+        <% } %>
+      <% } %>
+    </div>
+  </body>
+  </html>
