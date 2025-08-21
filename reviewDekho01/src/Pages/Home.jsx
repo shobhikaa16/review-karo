@@ -1,8 +1,8 @@
 import React from 'react'
-import Hero from '../Components/HomePage/Hero'
-import HowWeHelp from '../Components/HomePage/HowWeHelp'
-import Reviews from '../Components/HomePage/Reviews'
-import About from '../Components/HomePage/About'
+import Hero from '../Components/Homepage/Hero'
+import HowWeHelp from '../Components/Homepage/HowWeHelp'
+import Reviews from '../Components/Homepage/Reviews'
+import About from '../Components/Homepage/About'
 import Footer from '../Components/Footer/Footer'
 
 
