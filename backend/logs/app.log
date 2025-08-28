@@ -101,3 +101,95 @@
 {"level":"info","message":"Scraping reviews for Shelcal 500 Calcium+Vitamin D3 Tablet","timestamp":"2025-07-03T17:43:53.404Z"}
 {"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-07-03T17:43:53.648Z"}
 {"level":"info","message":"Successfully scraped 1mg: 10 reviews","timestamp":"2025-07-03T17:43:54.839Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3000","timestamp":"2025-07-19T09:50:09.416Z"}
+{"level":"info","message":"Scraping reviews for Glutofine","timestamp":"2025-07-19T09:51:47.295Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-07-19T09:51:47.975Z"}
+{"level":"info","message":"Successfully scraped 1mg: 4 reviews","timestamp":"2025-07-19T09:51:48.875Z"}
+{"level":"info","message":"Scraping reviews for HK Vitals Biotin Tablet","timestamp":"2025-07-19T09:52:10.233Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-07-19T09:52:10.789Z"}
+{"level":"info","message":"Successfully scraped 1mg: 0 reviews","timestamp":"2025-07-19T09:52:12.198Z"}
+{"level":"info","message":"Scraping reviews for Shelcal 500 Calcium+Vitamin D3 Tablet","timestamp":"2025-07-19T09:52:14.109Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-07-19T09:52:14.917Z"}
+{"level":"info","message":"Successfully scraped 1mg: 10 reviews","timestamp":"2025-07-19T09:52:15.848Z"}
+{"level":"info","message":"Scraping reviews for horlicks","timestamp":"2025-07-19T09:52:33.673Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-07-19T09:52:34.121Z"}
+{"level":"info","message":"Successfully scraped 1mg: 10 reviews","timestamp":"2025-07-19T09:52:36.043Z"}
+{"level":"info","message":"Scraping reviews for mamaearth","timestamp":"2025-07-19T09:52:50.494Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-07-19T09:52:50.956Z"}
+{"level":"info","message":"Successfully scraped 1mg: 10 reviews","timestamp":"2025-07-19T09:52:51.897Z"}
+{"level":"info","message":"Scraping reviews for himalyan shampoo","timestamp":"2025-07-19T09:53:13.241Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-07-19T09:53:13.633Z"}
+{"level":"info","message":"Successfully scraped 1mg: 10 reviews","timestamp":"2025-07-19T09:53:14.799Z"}
+{"level":"info","message":"Cache hit for Glutofine","timestamp":"2025-07-19T10:21:15.313Z"}
+{"level":"info","message":"Cache hit for Horlicks","timestamp":"2025-07-19T10:23:06.617Z"}
+{"level":"info","message":"Scraping reviews for crocin","timestamp":"2025-07-19T10:25:38.890Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-07-19T10:25:39.474Z"}
+{"level":"info","message":"Successfully scraped 1mg: 0 reviews","timestamp":"2025-07-19T10:25:40.599Z"}
+{"level":"info","message":"Cache hit for Crocin","timestamp":"2025-07-19T10:25:48.811Z"}
+{"level":"info","message":"Cache hit for HK Vitals Biotin Tablet","timestamp":"2025-07-19T10:26:31.783Z"}
+{"level":"info","message":"Cache hit for Shelcal 500 Calcium+Vitamin D3 Tablet","timestamp":"2025-07-19T10:26:33.746Z"}
+{"level":"info","message":"Scraping reviews for combiflam","timestamp":"2025-07-19T10:26:44.921Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-07-19T10:26:45.270Z"}
+{"level":"info","message":"Successfully scraped 1mg: 0 reviews","timestamp":"2025-07-19T10:26:45.983Z"}
+{"level":"info","message":"Scraping reviews for meftal spas","timestamp":"2025-07-19T10:26:55.800Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-07-19T10:26:56.264Z"}
+{"level":"info","message":"Successfully scraped 1mg: 0 reviews","timestamp":"2025-07-19T10:26:56.890Z"}
+{"level":"info","message":"Cache hit for meftal spas","timestamp":"2025-07-19T10:26:56.963Z"}
+{"level":"info","message":"Scraping reviews for Dove","timestamp":"2025-07-19T10:27:45.152Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-07-19T10:27:45.591Z"}
+{"level":"info","message":"Successfully scraped 1mg: 2 reviews","timestamp":"2025-07-19T10:27:46.923Z"}
+{"level":"info","message":"Scraping reviews for Shelcal 500 Calcium+Vitamin D3 Tablet","timestamp":"2025-07-19T12:05:04.809Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-07-19T12:05:05.349Z"}
+{"level":"info","message":"Successfully scraped 1mg: 10 reviews","timestamp":"2025-07-19T12:05:06.445Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3000","timestamp":"2025-08-21T18:19:09.232Z"}
+{"level":"info","message":"Scraping reviews for Glutofine","timestamp":"2025-08-21T18:34:45.238Z"}
+{"level":"info","message":"Successfully scraped 1mg: 4 reviews","timestamp":"2025-08-21T18:34:46.136Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-08-21T18:34:46.953Z"}
+{"level":"info","message":"Cache hit for Glutofine","timestamp":"2025-08-21T18:56:24.028Z"}
+{"level":"info","message":"Scraping reviews for iPhone 15","timestamp":"2025-08-21T18:56:27.390Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-08-21T18:56:29.116Z"}
+{"level":"info","message":"Successfully scraped 1mg: 0 reviews","timestamp":"2025-08-21T18:56:29.333Z"}
+{"level":"info","message":"Scraping reviews for Ikea Chair","timestamp":"2025-08-21T18:56:34.850Z"}
+{"level":"info","message":"Successfully scraped 1mg: 0 reviews","timestamp":"2025-08-21T18:56:35.487Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-08-21T18:56:36.515Z"}
+{"level":"info","message":"Scraping reviews for dsd","timestamp":"2025-08-21T19:21:55.351Z"}
+{"level":"info","message":"Successfully scraped 1mg: 0 reviews","timestamp":"2025-08-21T19:21:56.159Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-08-21T19:21:57.067Z"}
+{"level":"info","message":"Cache hit for dsd","timestamp":"2025-08-21T19:21:57.073Z"}
+{"level":"info","message":"Scraping reviews for HK Vitals Biotin Tablet","timestamp":"2025-08-21T19:22:19.110Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-08-21T19:22:20.656Z"}
+{"level":"info","message":"Successfully scraped 1mg: 10 reviews","timestamp":"2025-08-21T19:22:20.791Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3000","timestamp":"2025-08-22T03:47:08.771Z"}
+{"level":"info","message":"Scraping reviews for Glutofine","timestamp":"2025-08-22T03:48:09.047Z"}
+{"level":"info","message":"Successfully scraped 1mg: 4 reviews","timestamp":"2025-08-22T03:48:10.190Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-08-22T03:48:11.083Z"}
+{"level":"info","message":"Scraping reviews for iPhone 15","timestamp":"2025-08-22T03:48:57.159Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-08-22T03:48:58.918Z"}
+{"level":"info","message":"Successfully scraped 1mg: 0 reviews","timestamp":"2025-08-22T03:48:59.090Z"}
+{"level":"info","message":"Scraping reviews for HK Vitals Biotin Tablet","timestamp":"2025-08-22T03:49:12.507Z"}
+{"level":"info","message":"Successfully scraped 1mg: 10 reviews","timestamp":"2025-08-22T03:49:13.356Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-08-22T03:49:14.331Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:3000","timestamp":"2025-08-22T05:35:22.533Z"}
+{"level":"info","message":"Scraping reviews for HK Vitals Biotin Tablet","timestamp":"2025-08-22T05:35:29.586Z"}
+{"level":"info","message":"Successfully scraped 1mg: 0 reviews","timestamp":"2025-08-22T05:35:31.082Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-08-22T05:35:32.355Z"}
+{"level":"info","message":"Scraping reviews for Glutofine","timestamp":"2025-08-22T05:35:35.752Z"}
+{"level":"info","message":"Successfully scraped 1mg: 4 reviews","timestamp":"2025-08-22T05:35:36.583Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-08-22T05:35:37.485Z"}
+{"level":"info","message":"Scraping reviews for Horlicks","timestamp":"2025-08-22T05:35:46.261Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-08-22T05:35:48.634Z"}
+{"level":"info","message":"Successfully scraped 1mg: 10 reviews","timestamp":"2025-08-22T05:35:48.786Z"}
+{"level":"info","message":"Cache hit for Glutofine","timestamp":"2025-08-22T05:43:12.175Z"}
+{"level":"info","message":"Scraping reviews for mamaearth","timestamp":"2025-08-22T05:45:22.759Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-08-22T05:45:24.912Z"}
+{"level":"info","message":"Successfully scraped 1mg: 10 reviews","timestamp":"2025-08-22T05:45:25.078Z"}
+{"level":"info","message":"Scraping reviews for mamaearth facewash","timestamp":"2025-08-22T05:45:49.131Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-08-22T05:45:50.858Z"}
+{"level":"info","message":"Successfully scraped 1mg: 10 reviews","timestamp":"2025-08-22T05:45:51.003Z"}
+{"level":"info","message":"Cache hit for Glutofine","timestamp":"2025-08-22T05:54:23.777Z"}
+{"level":"info","message":"Scraping reviews for Shelcal 500 Calcium+Vitamin D3 Tablet","timestamp":"2025-08-22T05:54:32.217Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-08-22T05:54:34.176Z"}
+{"level":"info","message":"Successfully scraped 1mg: 10 reviews","timestamp":"2025-08-22T05:54:34.337Z"}
+{"level":"info","message":"Scraping reviews for Urban Ladder Sofa","timestamp":"2025-08-22T05:58:14.412Z"}
+{"level":"info","message":"Successfully scraped Netmeds: 0 reviews","timestamp":"2025-08-22T05:58:16.090Z"}
+{"level":"info","message":"Successfully scraped 1mg: 0 reviews","timestamp":"2025-08-22T05:58:16.339Z"}
